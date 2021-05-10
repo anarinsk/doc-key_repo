@@ -2,6 +2,10 @@
 
 깃헙의 중요한 문서를 정리합니다! 개인적으로 빠른 접근을 위한 링크입니다. 
 
+## Meta 
+
+- 네이밍 가이드 https://github.com/anarinsk/setup-doc-index_4_setup
+
 ## 설치 및 운용 
 
 - WSL 2 일상적인 활용 https://github.com/anarinsk/setup-wsl-daily_use
