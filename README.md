@@ -13,7 +13,7 @@
 - docker를 쓸 때 필요한 sh 파일 모음 https://github.com/anarinsk/setup-sh_for_docker
 - VS Code 위에 Data Science 도구들 세팅하기 https://github.com/anarinsk/setup-all_in_vs_code
 - WSL 2로 Nvidia GPU 구동하기 https://github.com/anarinsk/setup-gpu_in_WSL_2 
-- Windows Terminal 사용 팁팁 https://github.com/anarinsk/setup-windows_terminal/
+- Windows Terminal 사용 팁 https://github.com/anarinsk/setup-windows_terminal/
 
 ## 야매로 쓰는 앱 가이드 
 
