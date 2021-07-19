@@ -14,6 +14,7 @@
 - VS Code 위에 Data Science 도구들 세팅하기 https://github.com/anarinsk/setup-all_in_vs_code
 - WSL 2로 Nvidia GPU 구동하기 https://github.com/anarinsk/setup-gpu_in_WSL_2 
 - Windows Terminal 사용 팁 https://github.com/anarinsk/setup-windows_terminal/
+- WSL 2 GUI 앱 활용 https://docs.microsoft.com/ko-kr/windows/wsl/tutorials/gui-apps
 
 ## 야매로 쓰는 앱 가이드 
 
